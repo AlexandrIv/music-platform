@@ -1,0 +1,18 @@
+.player {
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  background-color: lightgray;
+
+  .picture {
+    margin: 0 15px;
+  }
+
+  .info {
+    width: 150px;
+  }
+}
